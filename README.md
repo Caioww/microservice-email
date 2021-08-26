@@ -1,2 +1,2 @@
 # microservice-email
-Microservice create using java email sender
+Microservice created using java email sender
